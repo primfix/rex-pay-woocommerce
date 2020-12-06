@@ -14,4 +14,4 @@
 
 // let redirectTo = (link) => {
 //   document.location = rexpay_payment_args.payment_link
-}
+//}

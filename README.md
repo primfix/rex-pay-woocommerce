@@ -73,10 +73,10 @@ To configure the plugin, go to __WooCommerce > Settings__ from the left menu, cl
 
 #####3. Rex-Pay modal showing card payment option
 ###
-![Screenshot 3](assets/img/screen2.PNG)
+![Screenshot 3](assets/img/screen3.png)
 
 
 #####4. Rex-Pay modal showing account payment option
 ###
-![Screenshot 4](assets/img/screen3.PNG)
+![Screenshot 4](assets/img/screen4.png)
 
