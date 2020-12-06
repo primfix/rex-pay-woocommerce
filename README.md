@@ -1,13 +1,13 @@
-# WooCommerce Rex-Pay Payment Gateway
+# WooCommerce RexPay Payment Gateway
 
  - **Contributors:** Workova Developers
- - **Tags:** woocommerce, payment gateway,international, mastercard, visa, rex-pay
+ - **Tags:** woocommerce, payment gateway,international, mastercard, visa, rexpay
  - **Requires at least:** 4.4
  - **Tested up to:** 5.4
  - **Stable tag:** 1.0.0
  - **License:** MIT - see below
 
-Make collections on your store using Rex-Pay.
+Make collections on your store using RexPay.
 
 
 
@@ -18,7 +18,7 @@ Accept Credit card, Debit card and Bank account payment directly on your store w
 
 
 
-Rex-Pay is available in:
+RexPay is available in:
 
 * __Nigeria__
 
@@ -27,13 +27,13 @@ Rex-Pay is available in:
 ### Automatic Installation
 *   Login to your WordPress Dashboard.
 *   Click on "Plugins > Add New" from the left menu.
-*   In the search box type __Rex-Pay Woocommerce Payment Gateway__.
-*   Click on __Install Now__ on __Rex-Pay Woocommerce Payment Gateway__ to install the plugin on your site.
+*   In the search box type __RexPay Woocommerce Payment Gateway__.
+*   Click on __Install Now__ on __RexPay Woocommerce Payment Gateway__ to install the plugin on your site.
 *   Confirm the installation.
 *   Activate the plugin.
 *   Click on "WooCommerce > Settings" from the left menu and click the __"Payments"__ tab.
-*   Click on the __Rex-pay__ link from the available Checkout Options
-*   Configure your __Rex-Pay Payment Gateway__ settings accordingly.
+*   Click on the __Rexpay__ link from the available Checkout Options
+*   Configure your __RexPay Payment Gateway__ settings accordingly.
 
 
 ### Manual Installation
@@ -42,15 +42,15 @@ Rex-Pay is available in:
 *  Click on the "Upload" option, then click "Choose File" to select the zip file you downloaded. Click "OK" and "Install Now" to complete the installation.
 *  Activate the plugin.
 *  Click on "WooCommerce > Settings" from the left menu and click the __"Payments"__ tab.
-*  Click on the __Rex-Pay__ link from the available Checkout Options
-*  Configure your __Rex-Pay Payment Gateway__ settings accordingly.
+*  Click on the __RexPay__ link from the available Checkout Options
+*  Configure your __RexPay Payment Gateway__ settings accordingly.
 
 For FTP manual installation, [check here](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 
 
 
 ### Configure the plugin
-To configure the plugin, go to __WooCommerce > Settings__ from the left menu, click __Payments__ tab. Click on __Rave__.
+To configure the plugin, go to __WooCommerce > Settings__ from the left menu, click __Payments__ tab. Click on __RexPay__.
 
 * __Enable/Disable__ - check the box to enable Rave Payment Gateway.
 * __Mode__ - uncheck the box to enable Live Mode.
@@ -61,7 +61,7 @@ To configure the plugin, go to __WooCommerce > Settings__ from the left menu, cl
 
 ## Screenshots ##
 
-#####1. Rex-Pay WooCommerce Payment Gateway Setting Page
+#####1. RexPay WooCommerce Payment Gateway Setting Page
 ###
 ![Screenshot 1](assets/img/screen1.png)
 
