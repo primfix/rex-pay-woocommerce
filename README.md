@@ -66,17 +66,17 @@ To configure the plugin, go to __WooCommerce > Settings__ from the left menu, cl
 ![Screenshot 1](assets/img/screen1.png)
 
 
-#####2. Rex-Pay WooCommerce Payment Gateway on woocommerce order checkout page
+#####2. RexPay WooCommerce Payment Gateway on woocommerce order checkout page
 ###
 ![Screenshot 2](assets/img/screen2.png)
 
 
-#####3. Rex-Pay modal showing card payment option
+#####3. RexPay modal showing card payment option
 ###
 ![Screenshot 3](assets/img/screen3.png)
 
 
-#####4. Rex-Pay modal showing account payment option
+#####4. RexPay modal showing account payment option
 ###
 ![Screenshot 4](assets/img/screen4.png)
 
