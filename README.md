@@ -1,7 +1,7 @@
 # WooCommerce RexPay Payment Gateway
 
- - **Contributors:** Workova Developers
- - **Tags:** woocommerce, payment gateway,international, mastercard, visa, rexpay
+ - **Contributors:** Accelerex
+ - **Tags:** woocommerce, payment gateway,international, visa, rexpay
  - **Requires at least:** 4.4
  - **Tested up to:** 5.4
  - **Stable tag:** 1.0.0
