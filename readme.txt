@@ -1,5 +1,5 @@
-=== Rex-Pay Payment Gateway ===
-Contributors: Workova Developers
+=== RexPay Payment Gateway ===
+Contributors: Accelerex
 Tags: Rex-pay woocommerce, payments
 Requires at least: 4.7
 Tested up to: 5.5
